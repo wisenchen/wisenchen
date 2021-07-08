@@ -54,7 +54,7 @@ xxxxx
 #### 其他项目
 - xxx公众号（vue）   日常维护
 - xxx（Angular）日常维护
-- xxx（Angular）交易模块开发
+- xxx（Angular）日常维护
 - xxx平台管理系统Emp（Angular） 重构
 - xxx管理后台（Angular） 重构
 - xxx管理后台（Angular）重构
