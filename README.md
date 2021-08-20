@@ -4,17 +4,16 @@
 * 学历：大专/计算机应用
 * 手机：xxx
 * Email：yu_sxw@163.com
-* 工作年限：2.5年
 * Github：https://github.com/wisenchen
 
 ## 技能清单
-1.	熟练Vue2.0全家桶看过源码，理解其核心原理
-2.	熟练使用 Angular、Rxjs、TypesScript 、NG-ZORRO技术栈
-3.	熟悉Node.js + Egg.js + MongoDB技术栈有后台开发经验
-4.	熟悉基本数据结构与算法，JavaScript基础扎实
-5.	了解小程序云开发有过个人项目开发经验
-6.	有过Vsocde插件和chrome插件开发经验，可以为团队开发辅助插件
-7.	了解Python，有写过简单的自动化脚本
+1. 熟练Vue2.0全家桶看过源码，理解其核心原理
+2. 熟练使用 Angular、Rxjs、TypesScript 、NG-ZORRO技术栈
+3. 熟悉Node.js + Egg.js + MongoDB技术栈有后台开发经验
+4. 熟悉基本数据结构与算法，JavaScript基础扎实
+5. 了解小程序云开发有过个人项目开发经验
+6. 有过Vsocde插件和chrome插件开发经验，可以为团队开发辅助插件
+7. 了解Python，有写过简单的自动化脚本
 
 ## 工作经历
 
